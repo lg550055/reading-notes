@@ -1,4 +1,4 @@
-# reading-notes
+#### reading-notes
 *CF reading notes*
 
 # Growth Mindset
