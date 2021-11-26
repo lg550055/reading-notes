@@ -1,5 +1,6 @@
 #### reading-notes
-*CF reading notes*
+*CF reading notes, by Polo Gonzalez - [github](github.com/lg550055/)*
+
 
 # Growth Mindset
 ## Continuous learning and development through hard work and perseverance
