@@ -1,4 +1,3 @@
-#### reading-notes
 *CF reading notes, by Polo Gonzalez - [github](github.com/lg550055/)*
 
 
