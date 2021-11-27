@@ -10,5 +10,5 @@
 - cd -change directory, for example cd .. to move to parent directory
 
 **Note**
-Linux is case sensitive
+Linux is case sensitive  
 *Everything is a file in Linux*
