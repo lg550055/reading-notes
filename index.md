@@ -7,5 +7,6 @@
 3. [Linux cheat sheet](cheat-sheet.md)
 4. [Git intro](git-intro.md)
 5. [HTML basics](html-basics.md)
+6. [CSS basics](css.md)
 
 *That's all for now!*
