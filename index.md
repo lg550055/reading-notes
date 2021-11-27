@@ -6,4 +6,4 @@
 2. [Markdown and Github Pages](markdown.md)
 3. [Linux cheat sheet](cheat-sheet.md)
 
-That's all for now!
+*That's all for now!*
