@@ -5,5 +5,6 @@
 1. [Growth Mindset](growth-mindset.md)
 2. [Markdown and Github Pages](markdown.md)
 3. [Linux cheat sheet](cheat-sheet.md)
+4. [Git intro](git-intro.md)
 
 *That's all for now!*
