@@ -1,4 +1,4 @@
-*CF reading notes, by Polo Gonzalez - [github](github.com/lg550055/)*
+*CF reading notes, by Polo Gonzalez - [GitHub](github.com/lg550055/)*
 
 
 # Growth Mindset
