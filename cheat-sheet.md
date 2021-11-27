@@ -12,5 +12,5 @@
 **Note**
 Linux is case sensitive  
 *Everything is a file in Linux*  
-***
+  
 [Back to home page](index.md)
