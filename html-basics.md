@@ -45,37 +45,24 @@ Elements can also have attributes, which contain information that is not part of
 
 Empty elements have no content, e.g. the `<img>` element
 
-#### Anatomy of an HTML document
-
-'<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>My test page</title>
-  </head>
-  <body>
-    <img src="images/firefox-icon.png" alt="My test image">
-  </body>
-</html>`
-
 #### Markig up text
 
-- Headings use an <h1> up to <h6> tag
-- Paragraphs use a <p> tag
+- Headings use an `<h1>` up to `<h6>` tag
+- Paragraphs use a `<p>` tag
 - Lists:
-  - Unorder (bullet) lists use an <ul> tag
-  - Ordered (numbered) list usa an <ol> tag
-  - List elements use a <li> tag
+  - Unorder (bullet) lists use an `<ul>` tag
+  - Ordered (numbered) list usa an `<ol>` tag
+  - List elements use a `<li>` tag
 
 #### Links
 Links are a very important element since they provide navigation.
-To add a link use an <a href="url"> tag with an `href=""` attribute followed by content and a closing </a> tag
+To add a link use an `<a href="url">` tag with an `href=""` attribute followed by content and a closing `</a>` tag
 
 ---
 
 ### Semantics
 
-In programming, Semantics refers to the meaning of a piece of code.  In HTML, for example, the <h1> element is a semantic element, which gives the text it wraps the role of "a top level heading on your page."
+In programming, Semantics refers to the meaning of a piece of code.  In HTML, for example, the `<h1>` element is a semantic element, which gives the text it wraps the role of "a top level heading on your page."
 
 Benefits of using correct semantic elements:
 - Search engines use them to identify important content
@@ -85,13 +72,15 @@ Benefits of using correct semantic elements:
 
 Here are examples of the close to 100 semantic elements:
 
-- <article>
-- <aside>
-- <footer>
-- <header>
-- <nav>
-- <section>
+- `<article>`
+- `<aside>`
+- `<footer>`
+- `<header>`
+- `<nav>`
+- `<section>`
 
 Refer to [this documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) for more information
 
 *Cheers*
+
+*[Back to home page](index.md)*
