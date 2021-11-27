@@ -24,6 +24,6 @@ Use `git clone [url]` usually this url is a github account
 - Use `git push origin main` to upload your changes to a remote repository
 
 *That's all for now!*
-***
 
-[Back to home page](index.md)
+
+*[Back to home page](index.md)*
