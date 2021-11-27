@@ -4,3 +4,4 @@
 1. Growth Mindset summary
 2. Markdown and GitHub Pages basics
 3. Linux Cheat Sheet basic
+4. Git intro
