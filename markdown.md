@@ -31,6 +31,6 @@ for example:
 
 Go to <https://www.markdownguide.org/basic-syntax/> for more info
 
-*Cheers!*
-  
-*[Back to home page](index.md)*
+---
+
+[Back to home page](index.md)

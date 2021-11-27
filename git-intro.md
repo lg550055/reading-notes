@@ -23,7 +23,6 @@ Use `git clone [url]` usually this url is a github account
 - To determine the state of files, use `git status`
 - Use `git push origin main` to upload your changes to a remote repository
 
-*That's all for now!*
-
+---
 
 *[Back to home page](index.md)*

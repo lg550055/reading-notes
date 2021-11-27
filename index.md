@@ -6,5 +6,6 @@
 2. [Markdown and Github Pages](markdown.md)
 3. [Linux cheat sheet](cheat-sheet.md)
 4. [Git intro](git-intro.md)
+5. [HTML basics](html-basics.md)
 
 *That's all for now!*

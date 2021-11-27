@@ -81,6 +81,6 @@ Here are examples of the close to 100 semantic elements:
 
 Refer to [this documentation](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) for more information
 
-*Cheers*
+---
 
-*[Back to home page](index.md)*
+[Back to home page](index.md)

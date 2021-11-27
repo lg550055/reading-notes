@@ -9,6 +9,7 @@
 - Find inspiration in the success of others
 
 [More about Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)  
-  
 
-*[Back to home page](index.md)*
+---
+
+[Back to home page](index.md)
