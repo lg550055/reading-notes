@@ -7,3 +7,4 @@
 4. Git intro
 5. HTML basics
 6. CSS basics
+7. JS basics

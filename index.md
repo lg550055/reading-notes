@@ -8,5 +8,6 @@
 4. [Git intro](git-intro.md)
 5. [HTML basics](html-basics.md)
 6. [CSS basics](css.md)
+7. [JS basics](js.md)
 
 *That's all for now!*
