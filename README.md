@@ -8,3 +8,4 @@
 5. HTML basics
 6. CSS basics
 7. JS basics
+8. Programming with JS

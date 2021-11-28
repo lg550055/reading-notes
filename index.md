@@ -9,5 +9,6 @@
 5. [HTML basics](html-basics.md)
 6. [CSS basics](css.md)
 7. [JS basics](js.md)
+8. [Programming with JS](js2.md)
 
 *That's all for now!*
