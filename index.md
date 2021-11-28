@@ -10,5 +10,6 @@
 6. [CSS basics](css.md)
 7. [JS basics](js.md)
 8. [Programming with JS](js2.md)
+9. [Operators and Loops](opandloops.md)
 
 *That's all for now!*

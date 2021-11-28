@@ -9,3 +9,4 @@
 6. CSS basics
 7. JS basics
 8. Programming with JS
+9. Operators and Loops
