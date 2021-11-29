@@ -65,6 +65,14 @@ Semantic elements make it easy to indicate the purpose of different parts of a w
 - Motivations
 - Goals
 
+## JavaScript (JS)
+JS allows us to make web sites more interactive, interesting and user friendly:
+
+- Access content
+- Modify content
+- React to events
+
+
 ---
 
 [Back to table of contents](../README.md)
