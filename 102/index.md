@@ -1,6 +1,6 @@
 *CF reading notes, by Polo Gonzalez* - <https://github.com/lg550055/>
 
-# Table of Contents
+# 102 - Table of Contents
 
 1. [Growth Mindset](growth-mindset.md)
 2. [Markdown and Github Pages](markdown.md)
@@ -12,4 +12,6 @@
 8. [Programming with JS](js2.md)
 9. [Operators and Loops](opandloops.md)
 
-*That's all for now!*
+---
+
+[Back to repo home](../README.md)
