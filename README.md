@@ -2,11 +2,13 @@
 
 ## Table of Contents
 
-### 201
+### Code 201 Reading Notes
+
+1. [Class 01](./201/class-01.md)
+2.
 
 
-
-### 102
+### Code 102 Reading Notes
 
 1. [Growth Mindset](./102/growth-mindset.md)
 2. [Markdown and Github Pages](./102/markdown.md)
