@@ -72,6 +72,19 @@ JS allows us to make web sites more interactive, interesting and user friendly:
 - Modify content
 - React to events
 
+#### How to go about coding / writting a script?
+> A script is a series of instructions for the computer to follow to achieve a goal
+
+- Computers follow instructions programmatically
+- To achieve the goal, the computer may only use part of the code
+- To write code, break down the goal into a series of tasks and then state each step needed to complete each task
+
+#### Computers operate on models built using data
+
+- Models use objects
+- Objects can have properties, providing info about the object
+- Methods perform tasks based on the object properties
+- Web browsers use HTML to create a model of a web page
 
 ---
 
