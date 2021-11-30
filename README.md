@@ -5,7 +5,7 @@
 ### Code 201 Reading Notes
 
 1. [Class 01](./201/class-01.md)
-2. Class 02
+2. [Class 02](./201/class-02.md)
 
 
 ### Code 102 Reading Notes
