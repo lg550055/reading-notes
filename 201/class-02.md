@@ -38,3 +38,6 @@ CSS rules have to two parts:
 - Internal: in the `<head>` element
 - Externat: separate file referenced in the `<head>` element
 
+---
+
+[Back to table of contents](../README.md)
