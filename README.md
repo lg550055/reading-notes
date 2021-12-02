@@ -7,6 +7,7 @@
 1. [Class 01](./201/class-01.md) -Introductory HTML and JavaScript
 2. [Class 02](./201/class-02.md) -Basics of HTML, CSS & JS
 3. [Class 03](./201/class-03.md) -Lists, CSS Boxes & JS Control Flow
+4. [Class 04](./201/class-04.md) -HTML Links, JS Functions, and Intro to CSS Layout
 
 
 ### Code 102 Reading Notes
