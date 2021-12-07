@@ -34,11 +34,13 @@ Objects can contain:
 #### Constructors and object instances
 > JavaScript uses special functions called constructor functions to define and initialize objects and their features.
 
+**A constructor is a *function* that creates object *instances* and uses parameters to assign them *unique* property values**
+
 ***Constructors provide the means to create multiple objects efficiently***
 
 #### Anatomy of a constructor function
 
-function functionName(p1, p2, ) {
+function ConstuctorName(p1, p2, ) {
   this.property1 = p1;
   this.property2 = p2;
   this.action = function(){
@@ -46,10 +48,12 @@ function functionName(p1, p2, ) {
   };
 }
 
+*By convention, capitalize the first letter of the constructor name*
+
 #### Using a constructor to create an object instance
 Use the keyword `new` before calling your constructor function
 
-let instance1 = new functionName(instance1par1, instance1par2);
+let instance1 = new ConstructorName(instance1par1, instance1par2);
 
 ***The beauty of constructor functions is multiple objects can be crated without the need to type each one***
 
