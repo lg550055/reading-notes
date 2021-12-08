@@ -11,6 +11,7 @@
 5. [Class 05](./201/class-05.md) -HTML Images; CSS Color & Text
 6. [Class 06](./201/class-06.md) -Problem Domain, Objects, and the DOM
 7. [Class 07](./201/class-07.md) -HTML Tables; JS Constructor Functions
+8. [Class 08](./201/class-08.md) -CSS Layout
 
 
 ### Code 102 Reading Notes
