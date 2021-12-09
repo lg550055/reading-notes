@@ -12,6 +12,7 @@
 6. [Class 06](./201/class-06.md) -Problem Domain, Objects, and the DOM
 7. [Class 07](./201/class-07.md) -HTML Tables; JS Constructor Functions
 8. [Class 08](./201/class-08.md) -CSS Layout
+9. [Class 09](./201/class-09.md) -Forms and JS Events
 
 
 ### Code 102 Reading Notes
