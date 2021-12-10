@@ -13,6 +13,7 @@
 7. [Class 07](./201/class-07.md) -HTML Tables; JS Constructor Functions
 8. [Class 08](./201/class-08.md) -CSS Layout
 9. [Class 09](./201/class-09.md) -Forms and JS Events
+10. [Class 10](./201/class-10.md) -Debugging
 
 
 ### Code 102 Reading Notes
