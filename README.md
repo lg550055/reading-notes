@@ -14,6 +14,7 @@
 8. [Class 08](./201/class-08.md) -CSS Layout
 9. [Class 09](./201/class-09.md) -Forms and JS Events
 10. [Class 10](./201/class-10.md) -Debugging
+11. [Class 11](./201/class-11.md) -Assorted Topics
 
 
 ### Code 102 Reading Notes
