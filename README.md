@@ -15,6 +15,7 @@
 9. [Class 09](./201/class-09.md) -Forms and JS Events
 10. [Class 10](./201/class-10.md) -Debugging
 11. [Class 11](./201/class-11.md) -Assorted Topics
+12. [Class 12](./201/class-12.md) -HTML <canvas> Element & Chart.js
 
 
 ### Code 102 Reading Notes
