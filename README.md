@@ -16,7 +16,7 @@
 10. [Class 10](./201/class-10.md) -Debugging
 11. [Class 11](./201/class-11.md) -Assorted Topics
 12. [Class 12](./201/class-12.md) -HTML <canvas> Element & Chart.js
-
+13. [Class 13](./201/class-13.md) -Local Storage
 
 ### Code 102 Reading Notes
 
