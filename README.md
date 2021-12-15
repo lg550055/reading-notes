@@ -4,19 +4,21 @@
 
 ### Code 201 Reading Notes
 
-1. [Class 01](./201/class-01.md) -Introductory HTML and JavaScript
-2. [Class 02](./201/class-02.md) -Basics of HTML, CSS & JS
-3. [Class 03](./201/class-03.md) -Lists, CSS Boxes & JS Control Flow
-4. [Class 04](./201/class-04.md) -HTML Links, JS Functions, and Intro to CSS Layout
-5. [Class 05](./201/class-05.md) -HTML Images; CSS Color & Text
-6. [Class 06](./201/class-06.md) -Problem Domain, Objects, and the DOM
-7. [Class 07](./201/class-07.md) -HTML Tables; JS Constructor Functions
-8. [Class 08](./201/class-08.md) -CSS Layout
-9. [Class 09](./201/class-09.md) -Forms and JS Events
-10. [Class 10](./201/class-10.md) -Debugging
-11. [Class 11](./201/class-11.md) -Assorted Topics
-12. [Class 12](./201/class-12.md) -HTML <canvas> Element & Chart.js
-13. [Class 13](./201/class-13.md) -Local Storage
+- [Class 01](./201/class-01.md) -Introductory HTML and JavaScript
+- [Class 02](./201/class-02.md) -Basics of HTML, CSS & JS
+- [Class 03](./201/class-03.md) -Lists, CSS Boxes & JS Control Flow
+- [Class 04](./201/class-04.md) -HTML Links, JS Functions, and Intro to CSS Layout
+- [Class 05](./201/class-05.md) -HTML Images; CSS Color & Text
+- [Class 06](./201/class-06.md) -Problem Domain, Objects, and the DOM
+- [Class 07](./201/class-07.md) -HTML Tables; JS Constructor Functions
+- [Class 08](./201/class-08.md) -CSS Layout
+- [Class 09](./201/class-09.md) -Forms and JS Events
+- [Class 10](./201/class-10.md) -Debugging
+- [Class 11](./201/class-11.md) -Assorted Topics
+- [Class 12](./201/class-12.md) -HTML <canvas> Element & Chart.js
+- [Class 13](./201/class-13.md) -Local Storage
+- [Class 14a](./201/class-14a.md) -
+- [Class 14b](./201/class-14b.md) -What Google Learned About Teams
 
 ### Code 102 Reading Notes
 
