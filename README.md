@@ -1,8 +1,12 @@
-*CF reading notes, by Polo Gonzalez* - <https://github.com/lg550055/>
+# Reading Notes
+*CF Software Development course reading notes, by Polo Gonzalez* - <https://github.com/lg550055/>
 
-## Table of Contents
+---
 
-### Code 201 Reading Notes
+## Code 301 - Intermediate Software Development
+-
+
+## Code 201 - Foundations of Software Development
 
 - [Class 01](./201/class-01.md) -Introductory HTML and JavaScript
 - [Class 02](./201/class-02.md) -Basics of HTML, CSS & JS
@@ -20,7 +24,7 @@
 - [Class 14a](./201/class-14a.md) -CSS Transforms, Transitions, and Animations
 - [Class 14b](./201/class-14b.md) -What Google Learned About Teams
 
-### Code 102 Reading Notes
+## Code 102 - Intro to Software Development
 
 1. [Growth Mindset](./102/growth-mindset.md)
 2. [Markdown and Github Pages](./102/markdown.md)
