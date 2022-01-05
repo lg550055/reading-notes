@@ -19,7 +19,7 @@
 - [Class 09](./201/class-09.md) -Forms and JS Events
 - [Class 10](./201/class-10.md) -Debugging
 - [Class 11](./201/class-11.md) -Assorted Topics
-- [Class 12](./201/class-12.md) -HTML <canvas> Element & Chart.js
+- [Class 12](./201/class-12.md) -HTML canvas Element & Chart.js
 - [Class 13](./201/class-13.md) -Local Storage
 - [Class 14a](./201/class-14a.md) -CSS Transforms, Transitions, and Animations
 - [Class 14b](./201/class-14b.md) -What Google Learned About Teams
