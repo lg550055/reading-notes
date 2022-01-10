@@ -1,10 +1,11 @@
 # Reading Notes
-*CF Software Development course reading notes, by Polo Gonzalez* - <https://github.com/lg550055/>
+*CF Software Engineering reading notes, by Polo Gonzalez* - <https://github.com/lg550055/>
 
 ---
 
 ## Code 301 - Intermediate Software Development
--
+
+- [Class 01](./301/class-01.md) -Introduction to React and Components
 
 ## Code 201 - Foundations of Software Development
 
