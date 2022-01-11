@@ -6,6 +6,9 @@
 ## Code 301 - Intermediate Software Development
 
 - [Class 01](./301/class-01.md) -Introduction to React and Components
+- [Class 02](./301/class-02.md) -State and Props
+
+---
 
 ## Code 201 - Foundations of Software Development
 
@@ -24,6 +27,8 @@
 - [Class 13](./201/class-13.md) -Local Storage
 - [Class 14a](./201/class-14a.md) -CSS Transforms, Transitions, and Animations
 - [Class 14b](./201/class-14b.md) -What Google Learned About Teams
+
+---
 
 ## Code 102 - Intro to Software Development
 
