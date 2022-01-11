@@ -19,4 +19,15 @@
 
 ---
 
+### Resources
+
+- [React docs: state and lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
+- [React lifecycle](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
+- [React state vs props](https://www.youtube.com/watch?v=IYvD9oBCuJI)
+- [React docs: handling events](https://reactjs.org/docs/handling-events.html)
+- [React Bootstrap](https://react-bootstrap.github.io/)
+- [Netlify](https://www.netlify.com/)
+
+---
+
 [Back to table of contents](../README.md)
