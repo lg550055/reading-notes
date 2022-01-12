@@ -7,6 +7,7 @@
 
 - [Class 01](./301/class-01.md) -Introduction to React and Components
 - [Class 02](./301/class-02.md) -State and Props
+- [Class 03](./301/class-03.md) -Passing Functions as Props
 
 ---
 
