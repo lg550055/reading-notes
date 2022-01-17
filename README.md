@@ -10,6 +10,7 @@
 - [Class 03](./301/class-03.md) -Passing Functions as Props
 - [Class 04](./301/class-04.md) -React and Forms
 - [Class 05](./301/class-05.md) -Putting it all together
+- [Class 06](./301/class-06.md) -Node.js
 
 ---
 
