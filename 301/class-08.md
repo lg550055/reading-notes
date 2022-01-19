@@ -18,7 +18,7 @@
 
 ## RegEx
 
-How would you match a phone number from your city using RegEx?  `\(318\)200-2555`
+How would you match a phone number from your city using RegEx?  `\(318\)\d\d\d-\d\d\d\d`
 
 --- 
 
