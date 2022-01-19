@@ -12,6 +12,7 @@
 - [Class 05](./301/class-05.md) -Putting it all together
 - [Class 06](./301/class-06.md) -Node.js
 - [Class 07](./301/class-07.md) -REST
+- [Class 08](./301/class-08.md) -APIs
 
 ---
 
