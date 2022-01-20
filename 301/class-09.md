@@ -10,10 +10,10 @@
 
 ## Node JS Tutorial for Beginners #6 - Modules and require()
 
-1. What is a module?
-2. What does the word ‘require’ do?
-3. How do we bring another module into the file the we are working in?
-4. What do we have to do to make a module available?
+1. What is a module?  A file containing a separate logical entity with separate functionality.
+2. What does the word ‘require’ do?  Import the contents from another file.
+3. How do we bring another module into the file the we are working in?  require('modulePath'), which we will normally assing to a variable for later use.
+4. What do we have to do to make a module available?  module.exports = <elements to export>
 
 --- 
 
