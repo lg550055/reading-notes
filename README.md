@@ -13,6 +13,7 @@
 - [Class 06](./301/class-06.md) -Node.js
 - [Class 07](./301/class-07.md) -REST
 - [Class 08](./301/class-08.md) -APIs
+- [Class 09](./301/class-09.md) -Functional Programming
 
 ---
 
