@@ -43,7 +43,7 @@ When there is an error, without error handling code, JS creates and Error object
 ##### 7 types of Error objects:
 - Error -generic error; base of all other types
 - SyntaxError -syntax not followed
-- ReferenceError -to variable not declared or within scope
+- ReferenceError -variable not declared or within scope
 - TypeError -data type can't be coerced
 - RangeError -number out of range
 - URIError -URI methods used incorrectly

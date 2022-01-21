@@ -14,6 +14,7 @@
 - [Class 07](./301/class-07.md) -REST
 - [Class 08](./301/class-08.md) -APIs
 - [Class 09](./301/class-09.md) -Functional Programming
+- [Class 10](./301/class-10.md) -In memory storage
 
 ---
 
