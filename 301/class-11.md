@@ -14,12 +14,16 @@
 
 ## NoSQL vs SQL use cases
 
-Five differences
+Five differences: SQL vs NoSQL
 
 SQL: Strict schema  vs  NoSQL: No schema
+
 SQL: Relations  vs  NoSQL: No / few relations
+
 SQL: Distributed data  vs  NoSQL: Nested data
+
 SQL: Hard to scale  vs  NoSQL: Simple to scale
+
 SQL: Limit on queries/s  vs  NoSQL: Great query performance
 
 
