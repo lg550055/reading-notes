@@ -16,6 +16,7 @@
 - [Class 09](./301/class-09.md) -Functional Programming
 - [Class 10](./301/class-10.md) -In memory storage
 - [Class 11](./301/class-11.md) -Mongo and Mongoose
+- [Class 12](./301/class-12.md) -CRUD
 
 ---
 
