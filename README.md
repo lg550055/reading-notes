@@ -17,6 +17,7 @@
 - [Class 10](./301/class-10.md) -In memory storage
 - [Class 11](./301/class-11.md) -Mongo and Mongoose
 - [Class 12](./301/class-12.md) -CRUD
+- [Class 13](./301/class-13.md) -Diversity & Inclusion in the Tech Industry
 
 ---
 
