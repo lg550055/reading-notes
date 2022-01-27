@@ -1,4 +1,4 @@
-# Mongo and Mongoose
+# Database intro
 
 ## NoSQL vs SQL intro
 

@@ -15,9 +15,11 @@
 - [Class 08](./301/class-08.md) -APIs
 - [Class 09](./301/class-09.md) -Functional Programming
 - [Class 10](./301/class-10.md) -In memory storage
-- [Class 11](./301/class-11.md) -Mongo and Mongoose
-- [Class 12](./301/class-12.md) -CRUD
+- [Class 11](./301/class-11.md) -Database intro
+- [Class 12](./301/class-12.md) -REST Methods Status Codes
 - [Class 13](./301/class-13.md) -Diversity & Inclusion in the Tech Industry
+- [Class 14](./301/class-14.md) -(pending)
+- [Class 15](./301/class-15.md) -CRUD
 
 ---
 

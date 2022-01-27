@@ -1,4 +1,4 @@
-# CRUD
+# REST Methods Status Codes
 
 ## Status Codes Based On REST Methods
 Clean API design uses HTTP codes to inform clients about the status of their requests.  A status code is a number between 100 and 600. The first digit defines the class of the status. A status code comes with a reason phrase. The code is for programmatic recognition; the phrase is for humans.   Understanding codes help us locate problems faster.
