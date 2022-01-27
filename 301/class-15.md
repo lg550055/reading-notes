@@ -5,11 +5,10 @@
 
 1. Which HTTP method would you use to update a record through an API?
 
-PUT, which replaces current data of the target resource with the uploaded content.
+  PUT, which replaces current data of the target resource with the uploaded content.
 
 2. Which REST methods require an ID parameter?
-
-PUT, PATCH and DELETE, each requires en ID to ensure we are affecting the intended resource.  GET if we intend to access a single resource (as opposed to a collection).
+  PUT, PATCH and DELETE, each requires en ID to ensure we are affecting the intended resource.  GET if we intend to access a single resource (as opposed to a collection).
 
 
 ## Speed Coding: Building a CRUD API
