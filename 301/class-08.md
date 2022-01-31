@@ -25,6 +25,7 @@ How would you match a phone number from your city using RegEx?  `\(318\)\d\d\d-\
 ### Resources
 
 - [API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+- [List of APIs](https://github.com/public-apis/public-apis)
 - [RegExr](https://regexr.com/)
 - [Regex Tutorial](https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285)
 - [Regex 101](https://regex101.com/)
