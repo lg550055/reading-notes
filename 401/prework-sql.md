@@ -128,4 +128,16 @@ DROP TABLE IF EXISTS mytable;
 
 ---
 
+*Screenshots for exercises 1-6 and 13-18*
 <img src="./sqlimg/sqlX1.png" width="480">
+<img src="./sqlimg/sqlX2.png" width="480">
+<img src="./sqlimg/sqlX3.png" width="480">
+<img src="./sqlimg/sqlX4.png" width="480">
+<img src="./sqlimg/sqlR1.png" width="480">
+<img src="./sqlimg/sqlX6.png" width="480">
+<img src="./sqlimg/sqlX13.png" width="480">
+<img src="./sqlimg/sqlX14.png" width="480">
+<img src="./sqlimg/sqlX15.png" width="480">
+<img src="./sqlimg/sqlX16.png" width="480">
+<img src="./sqlimg/sqlX17.png" width="480">
+<img src="./sqlimg/sqlX18.png" width="480">
