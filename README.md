@@ -5,6 +5,8 @@
 
 ## Code 401 - Advanced Software Development
 
+- [Prework -CLI](./401/prework-cli.md) -The Command Line
+
 ---
 
 ## Code 301 - Intermediate Software Development
