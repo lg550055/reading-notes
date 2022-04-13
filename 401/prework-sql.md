@@ -1,5 +1,5 @@
 # SQL Practice
-*This is a summary, mostly from [SQLBolt](sqlbolt.com)*
+*This is a summary, mostly from [SQLBolt](www.sqlbolt.com)*
 
 
 Structured Query Language (SQL) is a search language to instruct a relational database what information to retrieve.
