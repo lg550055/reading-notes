@@ -6,6 +6,7 @@
 ## Code 401 - Advanced Software Development
 
 - [Prework -CLI](./401/prework-cli.md) -The Command Line
+- [Prework -SQL](./401/prework-sql.md) -SQL Practice
 
 ---
 
