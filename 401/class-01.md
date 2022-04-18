@@ -35,6 +35,8 @@ Python is a simple language.  When it comes to names and values is important to 
 - > Immutable values can't alias
 - > Anything on the left side of an assignment is a reference
 - > Lots of things are assignments: x= , for x in , class x() , def x() , def fn(x) , import x , except... as x, with ... as x
+- > Names have no type
+- > Names can change value and time any time
 
 ---
 
