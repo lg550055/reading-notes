@@ -27,14 +27,14 @@ As you can imagine, our aim is to create efficient code.  Big O gives is a widel
 ### Names and Values in Python
 
 Python is a simple language.  When it comes to names and values is important to know:
-> Names refer to values
-> Assignments make names refer to a value
-> Names are reassigned independently
-> Assignment never copies data
-> Changes are visible through all names
-> Immutable values can't alias
-> Anything on the left side of an assignment is a reference
-> Lots of things are assignments: x= , for x in , class x() , def x() , def fn(x) , import x , except... as x, with ... as x
+- > Names refer to values
+- > Assignments make names refer to a value
+- > Names are reassigned independently
+- > Assignment never copies data
+- > Changes are visible through all names
+- > Immutable values can't alias
+- > Anything on the left side of an assignment is a reference
+- > Lots of things are assignments: x= , for x in , class x() , def x() , def fn(x) , import x , except... as x, with ... as x
 
 ---
 
