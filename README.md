@@ -8,6 +8,7 @@
 - [Prework -CLI](./401/prework-cli.md) -The Command Line
 - [Prework -SQL](./401/prework-sql.md) -SQL Practice
 - [Prework -Mindset](./401/prework-mindset.md) -Mindset
+- [Class 01](./401/class-01.md) -Intro to Big O and Python names and values
 
 ---
 
