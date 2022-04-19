@@ -37,6 +37,17 @@ Python is a simple language.  When it comes to names and values is important to 
 - > Lots of things are assignments: x= , for x in , class x() , def x() , def fn(x) , import x , except... as x, with ... as x
 - > Names have no type
 - > Names can change value and time any time
+- > Values have no scope (names do)
+
+---
+
+### Resources
+
+- [Pain and suffering](https://codefellows.github.io/code-401-python-guide/curriculum/class-01/notes/pain_suffering)
+- [Beginners guide Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation)
+- [Python names and values video](https://www.youtube.com/watch?v=_AEJHKGk9ns)
+- [Python standard library](https://pymotw.com/3/index.html)
+- [Visualize your code](https://pythontutor.com/)
 
 ---
 

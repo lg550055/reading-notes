@@ -2,7 +2,7 @@
 Best practices in software development include test-driven-development and the use of modules.  This summary introduces each concept briefly.
 
 ## TDD with Python
-> Test-Driven Development, TDD, is a strategy to think and write tests first. -[TDD with Python](https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932)
+> Test-Driven Development, TDD, is a strategy to think and write tests first.
 
 TDD facilitates conscious software development by requiring incremental assembly of small pieces that have proven to work.
 
@@ -26,7 +26,7 @@ TDD facilitates conscious software development by requiring incremental assembly
 ---
 
 ## Modules
-> A module is a file containing Python definitions and statements. The file name is the module name with the suffix .py appended. - [If name = main](https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/)
+> A module is a file containing Python definitions and statements. The file name is the module name with the suffix .py appended.
 
 Modules break a program into smaller components which allowing us to keep things:
 - simpler
@@ -54,7 +54,16 @@ Similarly, in computer science a recursive function has a clearly defined output
 
 While recursion is initially harder to comprehend than iterative methods, it is very useful especially in cases where the number or depth of the input is unknown and variable.
 
-[Learn more](https://www.geeksforgeeks.org/recursion/)
+---
+
+### Resources
+
+- [TDD with Python](https://code.likeagirl.io/in-tests-we-trust-tdd-with-python-af69f47e6932)
+- [If name = main](https://www.geeksforgeeks.org/what-does-the-if-__name__-__main__-do/)
+- [Recursion](https://www.geeksforgeeks.org/recursion/)
+- [Recursion video](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
+- [Python modules and packages](https://realpython.com/courses/python-modules-packages/)
+- [Pytest tutorial](https://www.guru99.com/pytest-tutorial.html)
 
 ---
 
