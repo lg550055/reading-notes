@@ -9,6 +9,7 @@
 - [Prework -SQL](./401/prework-sql.md) -SQL Practice
 - [Prework -Mindset](./401/prework-mindset.md) -Mindset
 - [Class 01](./401/class-01.md) -Intro to Big O and Python names and values
+- [Class 02](./401/class-02.md) -Testing and Modules
 
 ---
 
