@@ -12,6 +12,7 @@
 - [Class 02](./401/class-02.md) -Testing and Modules
 - [Class 03](./401/class-03.md) -FileIO & Exceptions
 - [Class 04](./401/class-04.md) -Classes, Objects and Pytest Fixtures and Coverage
+- [Class 05](./401/class-05.md) -Linked Lists
 
 ---
 
