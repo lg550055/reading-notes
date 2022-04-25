@@ -42,7 +42,7 @@ Related but separate, a lot of tests might not be a good thing, because there mi
 ---
 
 ## Random Module Python
-The Randome moodule gives us access to functions for many operations, the most important of which is random number generation.
+The Random module gives us access to functions for many operations, the most important of which is random number generation.
 
 - randint(l, h) -random integer N, l <= N <= h
 - random -random floating point number in range [0.0, 1.0)
