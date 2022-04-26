@@ -14,6 +14,7 @@
 - [Class 04](./401/class-04.md) -Classes, Objects and Pytest Fixtures and Coverage
 - [Class 05](./401/class-05.md) -Linked Lists
 - [Class 06](./401/class-06.md) -Test Coverage
+- [Class 07](./401/class-07.md) -Python Scope
 
 ---
 
