@@ -15,6 +15,7 @@
 - [Class 05](./401/class-05.md) -Linked Lists
 - [Class 06](./401/class-06.md) -Test Coverage
 - [Class 07](./401/class-07.md) -Python Scope
+- [Class 08](./401/class-08.md) -List Comprehensions
 
 ---
 
