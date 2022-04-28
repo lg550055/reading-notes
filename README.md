@@ -16,6 +16,7 @@
 - [Class 06](./401/class-06.md) -Test Coverage
 - [Class 07](./401/class-07.md) -Python Scope
 - [Class 08](./401/class-08.md) -List Comprehensions
+- [Class 09](./401/class-09.md) -Dunder Methods
 
 ---
 
