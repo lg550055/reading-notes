@@ -1,6 +1,6 @@
 # Stacks and Queues
 
-> Stacks and Queues are elegant tools for handling temporary data.  They are abstrac data types.
+> Stacks and Queues are elegant tools, abstrac data types, for handling temporary data.
 
 You can think of stacks and queues as arrays with restrictions.
 
