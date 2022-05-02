@@ -18,6 +18,7 @@
 - [Class 08](./401/class-08.md) -List Comprehensions
 - [Class 09](./401/class-09.md) -Dunder Methods
 - [Class 10](./401/class-10.md) -Stacks and Queues
+- [Class 11](./401/class-11.md) -Numpy
 
 ---
 
