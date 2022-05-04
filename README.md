@@ -20,6 +20,7 @@
 - [Class 10](./401/class-10.md) -Stacks and Queues
 - [Class 11](./401/class-11.md) -Numpy
 - [Class 12](./401/class-12.md) -Pandas
+- [Class 13](./401/class-13.md) -Linear Regression
 
 ---
 
