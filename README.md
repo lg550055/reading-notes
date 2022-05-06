@@ -21,7 +21,8 @@
 - [Class 11](./401/class-11.md) -Numpy
 - [Class 12](./401/class-12.md) -Pandas
 - [Class 13](./401/class-13.md) -Linear Regression (Sklearn)
-- [Class 14](./401/class-14.md) -Matplotlib
+- [Class 14](./401/class-14.md) -Matplotlib & Seaborn
+- [Class 15](./401/class-15.md) -Trees
 
 ---
 
