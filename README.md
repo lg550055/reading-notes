@@ -23,6 +23,7 @@
 - [Class 13](./401/class-13.md) -Linear Regression (Sklearn)
 - [Class 14](./401/class-14.md) -Matplotlib & Seaborn
 - [Class 15](./401/class-15.md) -Trees
+- [Class 16](./401/class-16.md) -Serverless
 
 ---
 
