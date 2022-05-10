@@ -24,6 +24,7 @@
 - [Class 14](./401/class-14.md) -Matplotlib & Seaborn
 - [Class 15](./401/class-15.md) -Trees
 - [Class 16](./401/class-16.md) -Serverless
+- [Class 17](./401/class-17.md) -Web Scraping
 
 ---
 
