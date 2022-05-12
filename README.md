@@ -26,6 +26,7 @@
 - [Class 16](./401/class-16.md) -Serverless
 - [Class 17](./401/class-17.md) -Web Scraping
 - [Class 18](./401/class-18.md) -Cryptography
+- [Class 19](./401/class-19.md) -Automation
 
 ---
 
