@@ -27,6 +27,7 @@
 - [Class 17](./401/class-17.md) -Web Scraping
 - [Class 18](./401/class-18.md) -Cryptography
 - [Class 19](./401/class-19.md) -Automation
+- [Class 26](./401/class-26.md) -Intro to Django
 
 ---
 
