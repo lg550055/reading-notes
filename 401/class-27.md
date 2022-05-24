@@ -1,4 +1,5 @@
 # Django Models
+
 > Django web applications access and manage data through Python objects referred to as models.
 
 Models define the structure of stored data, independently of the underlying database.
@@ -35,8 +36,6 @@ Register each model with the admin module.  Among other things, accessing models
 
 Create a superuser to manage the admin app and access and manipulate models:  `python3 manage.py createsuperuser`
 
-
-
 ---
 
 ### Resources
@@ -44,7 +43,7 @@ Create a superuser to manage the admin app and access and manipulate models:  `p
 - [Django Models](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Models)
 - [Django Admin](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site)
 - [Beginner’s Guide to Django - Part 1](https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html)
-- [Beginner’s Guide to Django - Part 2]()
+- [Beginner’s Guide to Django - Part 2](https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html)
 
 ---
 
