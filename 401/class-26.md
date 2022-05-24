@@ -2,9 +2,11 @@
 
 Django is a popular, open-source, Python-based web framework.  It is actively developed, which leads to frequent major releases.  It is supported by the Django Software Foundation.
 
+> A Web framework is a software that supports the development of dynamic Web sites, applications, and services.
+
 ### Batteries Included
 
-Django is a full-fledged web framework.  It includes multiple modules that take care of different things like authetication, admin, database, and many other features.
+Django is a full-fledged web framework.  It includes multiple modules that take care of different things like authetication, admin, database, sessions, url routing, template processing and many other features.
 
 ### Versatile
 
