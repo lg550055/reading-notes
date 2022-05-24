@@ -4,9 +4,11 @@ Django is a popular, open-source, Python-based web framework.  It is actively de
 
 > A Web framework is a software that supports the development of dynamic Web sites, applications, and services.
 
+**Django enables quick development of secure and reliable Web applications in a standardized way.**
+
 ### Batteries Included
 
-Django is a full-fledged web framework.  It includes multiple modules that take care of different things like authetication, admin, database, sessions, url routing, template processing and many other features.
+Django is a full-fledged web framework.  It includes multiple modules that take care of different things like authetication, admin, tests, database, sessions, url routing, template processing and many other features.
 
 ### Versatile
 
@@ -41,7 +43,7 @@ Django tends to fall in the category of opinionated framework, which means it en
 - [What is Django](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
 - [First Django App - Part 1](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
 - [First Django App - Part 2](https://docs.djangoproject.com/en/3.0/intro/tutorial02/)
-
+- [How instagram uses Django at scale video](https://www.youtube.com/watch?v=lx5WQjXLlq8)
 ---
 
 [Back to table of contents](../README.md)
