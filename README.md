@@ -29,6 +29,7 @@
 - [Class 19](./401/class-19.md) -Automation
 - [Class 26](./401/class-26.md) -Intro to Django
 - [Class 27](./401/class-27.md) -Django Models
+- [Class 28](./401/class-28.md) -Django Forms
 
 ---
 
