@@ -33,6 +33,7 @@
 - [Class 29](./401/class-29.md) -Django REST Framework & Docker
 - [Class 30](./401/class-30.md) -Hash tables
 - [Class 32](./401/class-32.md) -Django Permissions
+- [Class 33](./401/class-33.md) -Authentication & Production Server
 
 ---
 
