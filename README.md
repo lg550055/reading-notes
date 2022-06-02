@@ -34,6 +34,7 @@
 - [Class 30](./401/class-30.md) -Hash tables
 - [Class 32](./401/class-32.md) -Django Permissions
 - [Class 33](./401/class-33.md) -Authentication & Production Server
+- [Class 34](./401/class-34.md) -API Deployment
 
 ---
 
