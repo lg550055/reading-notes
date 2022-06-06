@@ -33,6 +33,19 @@
   - Look at options
 - No matter what, do you best, try your hardest
 
+### Top 10 Algorithm Techniques for Coding Interview
+
+- DFS (stack)
+- BFS (queue)
+- Matching parenthesis (stack)
+- Hash tables (keep track of values already computed)
+- Manipulate multiple pointers symultaneously
+- Reverse a linked list
+- Sorting fundamentals
+- Recursion
+- Custom data structures, e.g. class
+- Binary search
+
 ---
 
 ### Resources
@@ -40,6 +53,9 @@
 - [Whiteboard Advice](https://hackernoon.com/the-best-whiteboard-interview-advice-i-ever-received-3ebbfa72e4a)
 - [7 Tips](https://medium.com/@steve_45636/6-tips-to-ace-a-whiteboard-programming-interview-f06c1b378bc6)
 - [Engineering Interview Process Deconstructed](https://www.youtube.com/watch?v=KdXAUst8bdo)
+- [Top 10 Algorithm Techniques for Coding Interview Part 1](https://www.youtube.com/watch?v=r1MXwyiGi_U)
+- [Top 10 Algorithm Techniques for Coding Interview Part 2](https://www.youtube.com/watch?v=zHczhZn-z30)
+- [5 Things to avoid in Coding Interviews](https://www.youtube.com/watch?v=FowJZqVggCU)
 
 ---
 
