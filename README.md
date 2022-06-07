@@ -37,6 +37,7 @@
 - [Class 34](./401/class-34.md) -API Deployment
 - [Class 35](./401/class-35.md) -Graphs
 - [Class 36](./401/class-36.md) -DSA Review
+- [Class 37](./401/class-37.md) -React, Tailwind CSS, Next.js
 
 ---
 
