@@ -74,6 +74,8 @@ Icons use an upper camel case naming convention and are always suffixed with the
 - [React -Forms](https://reactjs.org/docs/forms.html)
 - [React -Lifting state](https://reactjs.org/docs/lifting-state-up.html)
 - [React -Composition vs Inheritance](https://reactjs.org/docs/composition-vs-inheritance.html)
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [React - Comprehensive Guide](https://ui.dev/react)
 - [heroicons](https://heroicons.com/)
 
 ---
