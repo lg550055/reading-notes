@@ -39,6 +39,7 @@
 - [Class 36](./401/class-36.md) -DSA Review
 - [Class 37](./401/class-37.md) -React, Tailwind CSS, Next.js
 - [Class 38](./401/class-38.md) -React, Heroicons
+- [Class 39](./401/class-39.md) -React useContext, Next.js
 
 ---
 
