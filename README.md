@@ -40,6 +40,7 @@
 - [Class 37](./401/class-37.md) -React, Tailwind CSS, Next.js
 - [Class 38](./401/class-38.md) -React, Heroicons
 - [Class 39](./401/class-39.md) -React useContext, Next.js
+- [Class 41](./401/class-41.md) -Next.js: Dynamic Routes & Deployment
 
 ---
 
