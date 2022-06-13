@@ -33,11 +33,21 @@ Under the hood:
 
 ---
 
+### Bonus: Static File Serving
+
+> Next.js can serve static files, like images, under a folder called public in the root directory. Files inside public can then be referenced by your code starting from the base URL (/).
+
+
+
+---
+
 ### Resources
 
 - [Next.js - Dynamic Routes](https://nextjs.org/learn/basics/dynamic-routes/page-path-external-data)
 - [Next.js - Deployment](https://nextjs.org/learn/basics/deploying-nextjs-app)
+- [Next.js - Static File Serving](https://nextjs.org/docs/basic-features/static-file-serving)
 - [Next.js 10 is here](https://www.youtube.com/watch?v=JWCS5IdECVI)
+
 
 ---
 
