@@ -35,6 +35,8 @@ Instead of a return statement, generators use a yield statement that suspends th
 - [Dunder Methods](https://dbader.org/blog/python-dunder-methods)
 - [Iterators](https://dbader.org/blog/python-iterators)
 - [Generators](https://dbader.org/blog/python-generators)
+- [What are Generators video](https://realpython.com/lessons/what-are-python-generators/)
+- [Decorators](https://realpython.com/primer-on-python-decorators/)
 
 ---
 
