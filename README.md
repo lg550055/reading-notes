@@ -42,6 +42,7 @@
 - [Class 39](./401/class-39.md) -React useContext, Next.js
 - [Class 41](./401/class-41.md) -Next.js: Dynamic Routes & Deployment
 - [Class 42](./401/class-42.md) -Pythonisms
+- [Class 42e](./401/class-42e.md) -Ethics in Technology
 
 ---
 
