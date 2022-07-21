@@ -1,5 +1,5 @@
 # Reading Notes
-*CF Software Engineering reading notes, by Polo Gonzalez* - <https://github.com/lg550055/>
+*Software Engineering reading notes, by Polo Gonzalez*
 
 ---
 
@@ -98,3 +98,9 @@
 7. [JS basics](./102/js.md)
 8. [Programming with JS](./102/js2.md)
 9. [Operators and Loops](./102/opandloops.md)
+
+---
+
+## Beyond specific courses
+
+- [Implementation intention](misc/impintention.md)
